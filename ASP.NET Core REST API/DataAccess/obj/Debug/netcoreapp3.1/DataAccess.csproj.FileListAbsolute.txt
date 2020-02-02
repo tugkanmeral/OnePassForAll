@@ -1,0 +1,26 @@
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

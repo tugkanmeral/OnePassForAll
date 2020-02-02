@@ -1,0 +1,30 @@
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

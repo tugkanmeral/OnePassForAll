@@ -1,0 +1,16 @@
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.pdb

@@ -1,0 +1,22 @@
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
